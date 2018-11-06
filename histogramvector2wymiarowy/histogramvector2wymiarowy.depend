@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537962587 source:c:\c++\histogramvector2wymiarowy\main.cpp
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+
